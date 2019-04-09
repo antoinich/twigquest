@@ -1,0 +1,12 @@
+{
+    "name": "wilder/twigquest",
+    "authors": [
+        {
+            "name": "antoinich",
+            "email": "antoinejen@hotmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
